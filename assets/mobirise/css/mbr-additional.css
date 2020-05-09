@@ -712,12 +712,12 @@ section.lazy-placeholder:after {
 }
 .cid-rYbo8s02Ft .navbar {
   padding: .5rem 0;
-  background: #5b686b;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rYbo8s02Ft .navbar-dropdown.bg-color.transparent.opened {
-  background: #5b686b;
+  background: #465052;
 }
 .cid-rYbo8s02Ft a {
   font-style: normal;
@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rYbo8s02Ft .dropdown .dropdown-menu {
-  background: #5b686b;
+  background: #465052;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -956,7 +956,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYbo8s02Ft .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.6rem);
   }
 }
 .cid-rYbo8s02Ft .collapsed button.navbar-toggler {
@@ -1529,12 +1529,12 @@ section.lazy-placeholder:after {
 }
 .cid-rYqTe9wJ15 .navbar {
   padding: .5rem 0;
-  background: #5b686b;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rYqTe9wJ15 .navbar-dropdown.bg-color.transparent.opened {
-  background: #5b686b;
+  background: #465052;
 }
 .cid-rYqTe9wJ15 a {
   font-style: normal;
@@ -1625,7 +1625,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rYqTe9wJ15 .dropdown .dropdown-menu {
-  background: #5b686b;
+  background: #465052;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1773,7 +1773,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYqTe9wJ15 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.6rem);
   }
 }
 .cid-rYqTe9wJ15 .collapsed button.navbar-toggler {
@@ -1996,12 +1996,12 @@ section.lazy-placeholder:after {
 }
 .cid-rYrEPE5NLX .navbar {
   padding: .5rem 0;
-  background: #5b686b;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-rYrEPE5NLX .navbar-dropdown.bg-color.transparent.opened {
-  background: #5b686b;
+  background: #465052;
 }
 .cid-rYrEPE5NLX a {
   font-style: normal;
@@ -2092,7 +2092,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rYrEPE5NLX .dropdown .dropdown-menu {
-  background: #5b686b;
+  background: #465052;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -2240,7 +2240,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYrEPE5NLX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.6rem);
   }
 }
 .cid-rYrEPE5NLX .collapsed button.navbar-toggler {
